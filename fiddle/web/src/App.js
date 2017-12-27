@@ -12,7 +12,12 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
         </header>
-        <Button text="Press on Web!" onPress={() => alert('Button Pressed!')} />
+        <div>
+          <Button
+            text="Press on Web!"
+            onPress={() => alert('Button Pressed!')}
+          />
+        </div>
       </div>
     );
   }
