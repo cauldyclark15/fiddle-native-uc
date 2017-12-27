@@ -32,6 +32,5 @@
     "storybook": "start-storybook -p 9001 -c .storybook",
     "build": "build-storybook",
     "test": "jest"
-  },
-  "dependencies": {}
+  }
 }
