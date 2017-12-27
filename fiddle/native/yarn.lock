@@ -2089,6 +2089,10 @@ fbjs@^0.8.14, fbjs@^0.8.16, fbjs@^0.8.4, fbjs@^0.8.9:
     setimmediate "^1.0.5"
     ua-parser-js "^0.7.9"
 
+fiddle-universal-components@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/fiddle-universal-components/-/fiddle-universal-components-1.0.2.tgz#e2e116482aa299fc12b8e553234fe32443db5d2d"
+
 figures@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/figures/-/figures-2.0.0.tgz#3ab1a2d2a62c8bfb431a0c94cb797a2fce27c962"
