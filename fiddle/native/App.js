@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, Alert } from 'react-native';
-import { Button } from 'fiddle-universal-components/components';
+import { Button } from 'fiddle-universal-components';
 
 export default class App extends React.Component {
   render() {

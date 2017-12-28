@@ -20,8 +20,11 @@
   },
   "dependencies": {
     "expo": "^23.0.4",
-    "fiddle-universal-components": "^1.0.3",
+    "fiddle-universal-components": "1.0.6",
+    "prop-types": "^15.6.0",
     "react": "16.0.0",
-    "react-native": "0.50.3"
+    "react-dom": "^16.2.0",
+    "react-native": "0.50.3",
+    "react-native-web": "^0.2.2"
   }
 }
